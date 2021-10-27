@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    font-family: Chalkboard, sans-serif;
+}
+ul {
+    background-color: #3399ff;
+    list-style-position: inside;
+    padding: 20px;
+}
+li {
+    text-align: center;
+    font-family: Chalkboard, sans-serif;
+    background-color: #cce5ff;
+}
